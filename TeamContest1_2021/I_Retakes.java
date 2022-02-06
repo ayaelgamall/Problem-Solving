@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.util.Arrays;
-import java.util.PriorityQueue;
+import java.util.*;
 import java.util.StringTokenizer;
 import java.util.TreeSet;
 
